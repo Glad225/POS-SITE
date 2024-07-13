@@ -6,6 +6,7 @@
 body{
     background-color: rgb(247, 238, 238);
     font-family: "Inter";
+    width:100%;
     
        
 }
@@ -78,6 +79,6 @@ button:hover{
     display: flex;
     flex-direction: row;
     justify-content: space-between;    
-    margin-top: 80px;
+    margin-top: 70px;
     padding: 20px;
 }
