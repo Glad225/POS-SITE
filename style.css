@@ -5,7 +5,8 @@
 }
 @media only screen and (max-width: 500px) {
     .row{
-        flex-direction: column;
+        flex-direction: row;
+        gap:20px;
     }
 }
 body{
@@ -83,7 +84,7 @@ button:hover{
 .row{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;    
-    margin-top: 70px;
+    gap: 20px;    
+    margin-top: 20px;
     padding: 20px;
 }
