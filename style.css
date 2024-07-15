@@ -4,7 +4,12 @@
     padding: 0;
 }
 @media only screen and (max-width: 600px) {
-    flex-direction: column}
+    .row{
+        display: flex;
+        flex-direction: row;
+        justify-content: spacebetween;
+    }
+}
 body{
     background-color: rgb(247, 238, 238);
     font-family: "Inter";
