@@ -7,7 +7,7 @@
     .row{
         display: flex;
         flex-direction: row;
-        justify-content: spacebetween;
+        justify-content: space-between;
     }
 }
 body{
